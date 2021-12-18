@@ -56,5 +56,7 @@ Laplacian phase unwrapping used in getfield1: https://people.eecs.berkeley.edu/~
 Vesselness function which is the source for PFT3Dmod: https://github.com/Haifafh/MFAT
  
 Author: Sina Straub
+
 Email: sina.straub@gmail.com, sina.straub@dkfz.de
+
 Date: 18.12.2021 V1.1.1
