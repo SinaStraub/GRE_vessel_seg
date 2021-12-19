@@ -1,4 +1,4 @@
-GRE_vessel_seg compute a vein (or arteries) segmentation (output=vein_seg) from multi-echo or single-echo
+GRE_vessel_seg computes a vein (or arteries) segmentation (output=vein_seg) from multi-echo or single-echo
 gradient echo data in Matlab. As the algorithm is implemented in a modular way, it
 is possible to replace the functions for background suppression, calculation of the 
 vesselness function, the scale-wise representation by different methods 
