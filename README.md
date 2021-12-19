@@ -40,7 +40,7 @@ do_field: 1 use regularization function for vesselness as penalty for field inho
 it: vein segmentation for the lowest scale is iterated it-times to improve thecompleteness of segmented large veins.
 
 Example:
-First load all required data (including mag), then compute shearSys by [shearSys]=make_Shear_sys(mag,scales);
+First load all required data (including mag) (example data can be downloaded here: https://doi.org/10.5281/zenodo.5791233), then compute shearSys by [shearSys]=make_Shear_sys(mag,scales);
 
 vein_seg=vessel_seg(mag,ph,qsm,mask_erode,2,4,[41,21,5,5],0,shearSys,1,r2,[0.5 0.5 0.6],[6,6,6],1,mask01,0);
 
