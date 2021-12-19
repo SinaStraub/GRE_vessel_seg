@@ -10,6 +10,7 @@ its application for the detection of regional cerebral differences in
 venous susceptibility``, Journal 2021,...
 
 Required input data:
+
 magh: single or multi-echo gradient echo magnitude images, echoes need to be fourth dimension.
 
 phh: single or multi-echo gradient echo phase images, echoes need to be fourth dimension.
