@@ -5,9 +5,8 @@ vesselness function, the scale-wise representation by different methods.
 Implementation based on (please kindly cite the following paper if you use 
 this program, or any code extended from this program):
 
-[1] Authors, ``A gradient echo data based vein segmentation algorithm and
-its application for the detection of regional cerebral differences in
-venous susceptibility``, Journal 2021,...
+[1] Sina Straub, Janis Stiegeler, Edris El-Sanosy, Martin Bendszus, Mark E. Ladd, Till M. Schneider*, ``A gradient echo data based vein segmentation algorithm and
+its application for the detection of regional cerebral differences in venous susceptibility``, Neuroimage 2022.
 
 Required input data:
 
